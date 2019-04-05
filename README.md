@@ -1,6 +1,6 @@
 
 # Appium automation test for basic IOS app
-=============================================================================
+
 
 **Prerequsite**
 1. Xcode 9.4.1 or later installed on your macOS
