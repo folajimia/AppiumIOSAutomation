@@ -1,5 +1,5 @@
 
-# Appium automation test for basic app fields
+# Appium automation test for basic IOS app
 =============================================================================
 
 **Prerequsite**
