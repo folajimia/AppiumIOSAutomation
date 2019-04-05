@@ -1,8 +1,8 @@
 
-<h1>Appium automation test for basic app fields<h1>
+# Appium automation test for basic app fields
 =============================================================================
-##Prerequsite
 
+**Prerequsite**
 1. Xcode 9.4.1 or later installed on your macOS
 2. Appium application( installed by GUI/ CMI)
    ```shell
@@ -28,7 +28,7 @@
    Find a demo app with source code to work with or build yours.
    in this case i used the demo app i found at https://www.appcoda.com
 
-##To run Code
+**To run Code**
 
 1. Install all the pre-requsite applications
 2. Copy files in this project
@@ -37,7 +37,7 @@
     ```python
     pytest test_login.py
     ``` 
-##Improvements
+**Improvements**
  
 This is just the basic from the tutorial at https://www.appcoda.com.
 There a number of things i can add to make this into a proper framework.
@@ -51,7 +51,7 @@ on different simulator ios device size
 6. support for browserstack
 
 
-##Credits
+**Credits**
 
 i started this small project based on a tutorial by 
 Lawrence Tan @ https://www.appcoda.com
